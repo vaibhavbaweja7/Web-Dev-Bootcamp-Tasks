@@ -1,0 +1,19 @@
+body{
+    background:url("https://i.pinimg.com/736x/bf/c5/9d/bfc59d92aba7e1da3cbbbe97bae5dd18.jpg");
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-size: contain;
+}
+h1{
+    text-align: center;
+}
+ul{
+    display:table;
+    margin: 0 auto;
+    border:5px solid black;
+}
+.li2{
+    text-decoration: line-through;
+    border: 5px solid blue;
+}
+
