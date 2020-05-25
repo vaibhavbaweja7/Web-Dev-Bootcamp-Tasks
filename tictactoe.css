@@ -3,8 +3,6 @@ body{
     padding-top: 100px;
     margin:0 auto;
     align-content: center;
-
-
 }
 h1{
     text-align: center;
@@ -12,14 +10,12 @@ h1{
 table{
     height: 500px;
     width: 500px;
-    
-    
 }
-table.center {
+table.center 
+{
     margin-left:auto; 
     margin-right:auto;
   }
-
 td{
     border:1px solid black;
     border-left: none;
@@ -28,4 +24,7 @@ td{
 }
 .last{
     border-right: none;
+}
+.lastrow{
+    border-bottom: none;
 }

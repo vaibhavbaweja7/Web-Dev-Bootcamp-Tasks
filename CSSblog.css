@@ -9,6 +9,22 @@ body{
      padding-right:20px;
      background-color: lightyellow;
     } 
+ 
+ .firstparaborder
+ {
+border-left:2px solid #bdc3c7;
+ }
+
+ h1{
+     color:#2c3e50;
+     text-align:left;
+
+ }
+ p{
+     font-family: 'Source Sans Pro', sans-serif;
+     text-align:left;
+
+ }  
  hr.style-eight {
     overflow: visible; /* For IE */
     padding: 0;
@@ -26,24 +42,3 @@ hr.style-eight:after {
     padding: 0 0.25em;
     background: white;
 }
- .date{
-     color:#3498db;
-     text-align: left;
-     font-size: 25px;
-     letter-spacing: 2px;
- }
- .firstparaborder
- {
-border-left:2px solid #bdc3c7;
- }
-
- h1{
-     color:#2c3e50;
-     text-align:left;
-
- }
- p{
-     font-family: 'Source Sans Pro', sans-serif;
-     text-align:left;
-
- }  

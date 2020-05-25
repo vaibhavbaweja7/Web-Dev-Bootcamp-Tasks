@@ -88,6 +88,7 @@ div:nth-of-type(3) em{
 /* Make the <label> elements all UPPERCASE without changing the HTML(definitely look this one up*/
 label{
     text-transform: uppercase;
+
 }
 
 /*Make the first letter of the element with id 'special' green and 100px font size(font-size: 100)*/
